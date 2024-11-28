@@ -1,6 +1,6 @@
 function download(string) {
     let item = string;
-    if(item == 'dchb') {
+    if(item == 'dcwbs') {
         window.open('/download/discord-webhock-spammer.html', '_blank');
     } else if(item == 'ddos') {
         window.open('/download/ddos.html', '_blank');
